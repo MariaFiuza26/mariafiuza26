@@ -1,5 +1,5 @@
 body{
-background-color:hsla(271, 100%, 81%, 0.89)81%, 0.89);
+background-color:rgb(179, 64, 140);
 }
 h1{
     color:#530045
@@ -10,6 +10,6 @@ h1{
         color: rgb(97, 0, 24) ;
         font-family: ;
         font-size: 25px ; 
-        background:hsl(290, 100%, 69%), 100%, 69%);
+        background:red;
         font-weight: bold;
 }
