@@ -2,9 +2,10 @@ body{
 background-color:rgb(179, 64, 140);
 }
 h1{
-    color:#530045
+    color:#530045;
     font-family: ;
-    background:
+    background:;
+    text-align: center;
 }
     p{
         color: rgb(97, 0, 24) ;
@@ -12,4 +13,5 @@ h1{
         font-size: 25px ; 
         background:red;
         font-weight: bold;
+        text-align: center;
 }
