@@ -10,6 +10,6 @@ h1{
         color: rgb(97, 0, 24) ;
         font-family: ;
         font-size: 25px ; 
-        background:#ed93ff
+        background:hsl(290, 100%, 69%), 100%, 69%)
         font-weight: bold;
     }
