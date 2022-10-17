@@ -2,16 +2,16 @@ body{
 background-color:rgb(248, 139, 248)
 }
 h1{
-    color:#000000;
-    font-family: ;
-    background:;
-    text-align: center;
+color:#000000;
+font-family: ;
+background:;
+text-align: center;
 }
-    p{
-        color: rgb(121, 3, 91) ;
-        font-family: ;
-        font-size: 25px ; 
-        background:rgb(241, 184, 255);
-        font-weight: bold;
-        text-align: center;
+p{
+color: rgb(121, 3, 91) ;
+font-family: ;
+font-size: 25px ; 
+background:rgb(241, 184, 255);
+font-weight: bold;
+text-align: center;
 }
