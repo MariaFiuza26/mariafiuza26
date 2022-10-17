@@ -1,5 +1,5 @@
 body{
-background-color:violet
+background-color:rgb(255, 180, 255)
 }
 h1{
     color:#000000;
@@ -8,7 +8,7 @@ h1{
     text-align: center;
 }
     p{
-        color: rgb(10, 10, 10) ;
+        color: rgb(148, 0, 111) ;
         font-family: ;
         font-size: 25px ; 
         background:rgb(241, 184, 255);
